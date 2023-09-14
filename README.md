@@ -1,10 +1,11 @@
-## Getting Started
+## Password Generator
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple basic password generator that is able to create a random character generator using the random module in a 10 length format
 
-## Folder Structure
+## WIP
 
-The workspace contains two folders by default, where:
+Needs the addition of uppercase and lower case letters
+and the number of characters so separate into different values/.
 
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
