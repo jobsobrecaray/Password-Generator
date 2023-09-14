@@ -1,5 +1,5 @@
 import java.util.Random;
-public class App {
+public class password {
     public static void main(String[] args) {
         Random r = new Random();
         String alphas = "abcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*()";
